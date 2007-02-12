@@ -1,5 +1,5 @@
 Summary:	Access Point Hunter
-Summary(pl.UTF-8):   Access Point Hunter - wyszukiwacz punktów dostępowych
+Summary(pl.UTF-8):	Access Point Hunter - wyszukiwacz punktów dostępowych
 Name:		aphunter
 Version:	1
 Release:	0.1
