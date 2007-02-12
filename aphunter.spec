@@ -1,5 +1,5 @@
 Summary:	Access Point Hunter
-Summary(pl):	Access Point Hunter - wyszukiwacz punktów dostêpowych
+Summary(pl.UTF-8):   Access Point Hunter - wyszukiwacz punktÃ³w dostÄ™powych
 Name:		aphunter
 Version:	1
 Release:	0.1
@@ -16,10 +16,10 @@ Access Point Hunter can find and automatically connect to whatever
 wireless network is within range. It can be used for site surveys,
 writing the results in a file.
 
-%description -l pl
-Access Point Hunter potrafi znale¼æ i automatycznie po³±czyæ z dowoln±
-sieci± bezprzewodow± w zasiêgu. Mo¿e byæ u¿ywany do inspekcji,
-zapisuj±c wyniki w pliku.
+%description -l pl.UTF-8
+Access Point Hunter potrafi znaleÅºÄ‡ i automatycznie poÅ‚Ä…czyÄ‡ z dowolnÄ…
+sieciÄ… bezprzewodowÄ… w zasiÄ™gu. MoÅ¼e byÄ‡ uÅ¼ywany do inspekcji,
+zapisujÄ…c wyniki w pliku.
 
 %prep
 %setup -q -c
